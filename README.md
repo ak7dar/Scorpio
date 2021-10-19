@@ -41,6 +41,11 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 ![](/Graffias/preview.png)
 - Wallpaper [Here](https://unsplash.com/photos/JgOeRuGD_Y4)
 
+#### [Dschubba](/Dschubba) theme
+
+![](/Dschubba/preview.png)
+- Wallpaper [Here](https://unsplash.com/photos/DgdJ_0us5SE)
+
 ## Last
 - these themes are inspired by
 	- KWGT widget for Android
