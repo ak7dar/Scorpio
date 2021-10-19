@@ -31,6 +31,11 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 
 ## Screenshots :
 
+#### [Antares](/Antares) theme
+
+![](/Antares/preview.png)
+- Wallpaper [Here](https://unsplash.com/photos/xFjAftU8lMY)
+
 #### [Graffias](/Graffias) theme
 
 ![](/Graffias/preview.png)
