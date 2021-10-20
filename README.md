@@ -46,6 +46,11 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 ![](/Dschubba/preview.png)
 - Wallpaper [Here](https://unsplash.com/photos/DgdJ_0us5SE)
 
+#### [Shaula](/Shaula) theme
+
+![](/Shaula/preview.png)
+- Wallpaper [Here](https://unsplash.com/photos/MF9Wy1NA55I)
+
 ## Last
 - these themes are inspired by
 	- KWGT widget for Android
