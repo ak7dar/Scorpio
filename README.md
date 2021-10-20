@@ -51,6 +51,11 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 ![](/Shaula/preview.png)
 - Wallpaper [Here](https://unsplash.com/photos/MF9Wy1NA55I)
 
+#### [Jabbah](/Jabbah) theme
+
+![](/Jabbah/preview.png)
+- Wallpaper [Here](https://unsplash.com/photos/RsRTIofe0HE)
+
 ## Last
 - these themes are inspired by
 	- KWGT widget for Android
