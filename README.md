@@ -56,6 +56,11 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 ![](/Jabbah/preview.png)
 - Wallpaper [Here](https://unsplash.com/photos/RsRTIofe0HE)
 
+#### [Lesath](/Lesath) theme
+
+![](/Lesath/preview.png)
+- Wallpaper i get from [Wallpaperflare](https://wallpaperflare.com), but i forget the name
+
 ## Last
 - these themes are inspired by
 	- KWGT widget for Android
