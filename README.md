@@ -1,4 +1,4 @@
-# SCORPIO
+![greetings](/Asset/Scorpio.png)
 
 A Conky themes pack which I made in hopes of beautifying your desktop 
 
