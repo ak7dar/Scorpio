@@ -2,7 +2,6 @@
 
 A Conky themes pack which I made in hopes of beautifying your desktop 
 
-
 ## Note :
 - syntax configuration of this theme for conky version 1.10.8 or newer
 - the default folder for this theme is in ~/.config/conky if it doesn't exist please create one
@@ -60,6 +59,11 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 
 ![](/Lesath/preview.png)
 - Wallpaper i get from [Wallpaperflare](https://wallpaperflare.com), but i forget the name
+------------------------------------------------------------------------
+### Featured
+#### [Enif](/Enif) theme
+
+![](/Enif/preview.png)
 
 ## Last
 - these themes are inspired by
