@@ -9,6 +9,11 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 
 ## Showcase :
 
+### :rocket: New theme !!!! :rocket:
+#### [Sargas](/Sargas) theme
+
+![](/Sargas/preview.png)
+---------------------------------------------------
 #### [Antares](/Antares) theme
 
 ![](/Antares/preview.png)
@@ -80,3 +85,5 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 	- KWGT widget for Android
 	- ZOOPER widget
 	- RAINMETER 
+
+<p align="center"><a href="https://github.com/closebox73/Scorpio/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=rounded-square&label=License&message=MIT-License&logoColor=white&logo=github&colorA=282C35&colorB=C678DD"/></a></p>
