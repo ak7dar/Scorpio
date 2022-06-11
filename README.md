@@ -7,7 +7,7 @@
 </h1>
 A Conky themes pack which I made in hopes of beautifying your desktop 
 
-## Showcase :
+## :cyclone: Showcase :
 
 ### :rocket: New theme !!!! :rocket:
 #### [Sargas](/Sargas) theme
@@ -50,7 +50,14 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 ![](/Enif/preview.png)
 ------------------------------------------------------------------------
 
-## Note :
+## :cyclone: Tip Jar :
+if you like my themes, i will be very grateful if you are willing to make a donation to support me to make even better themes
+
+thank you from all my heart
+
+[![](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/closebox73)
+
+## :cyclone: Note :
 - syntax configuration of this theme for conky version 1.10.8 or newer  ( but i prefer to use 1.10.8 version )
 - the default folder for this theme is in ~/.config/conky if it doesn't exist please create one
 - The music player I used was `mpd`
@@ -62,12 +69,12 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 	 - [Dafont](https://www.dafont.com)
 	 - [Google Fonts](https://fonts.google.com) 
 
-## Requirements :
+## :cyclone: Requirements :
 - Conky version 1.10.8 or newer ( open this  [Link](https://github.com/brndnmtthws/conky) for instalation )
 - for the weather theme I download the data using `curl` in json format, and use `jq` to process the data, please install first.
 - if you want to use the GUI when installing the theme, please install [conky-manager2](https://github.com/zcot/conky-manager2)
 
-## How to use theme :
+## :cyclone: How to use theme :
 - Clone this repo by command
   ```bash
   git clone https://github.com/closebox73/Scorpio.git
@@ -80,7 +87,7 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 	![](/Asset/CM2.png)
 - Done
 
-## Last
+## :cyclone: Last
 - these themes are inspired by
 	- KWGT widget for Android
 	- ZOOPER widget
