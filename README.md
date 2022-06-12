@@ -91,6 +91,12 @@ thank you from all my heart
 	![](/Asset/CM2.png)
 - Done
 
+## :gift: Special Thanks :
+I thank the people who have supported me,which makes me more excited to make new themes<br />
+one of them are the following people:
+
+- [G Nussbaum](https://github.com/gnussbaum67)
+
 ## :cyclone: Last
 - these themes are inspired by
 	- KWGT widget for Android
