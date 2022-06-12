@@ -45,6 +45,10 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 - Wallpaper i get from [Wallpaperflare](https://wallpaperflare.com), but i forget the name
 ------------------------------------------------------------------------
 ### Featured
+#### [Auva](/Auva) theme
+
+![](/Auva/preview.png)
+- i think this theme is better with white wallpaper
 #### [Enif](/Enif) theme
 
 ![](/Enif/preview.png)
