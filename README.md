@@ -61,6 +61,10 @@ thank you from all my heart
 
 [![](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/closebox73)
 
+or
+
+[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/closebox73/)
+
 ## :cyclone: Note :
 - syntax configuration of this theme for conky version 1.10.8 or newer  ( but i prefer to use 1.10.8 version )
 - the default folder for this theme is in ~/.config/conky if it doesn't exist please create one
