@@ -16,7 +16,8 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 ---------------------------------------------------
 #### [Antares](/Antares) theme
 
-![](/Antares/preview.png)
+![](/Asset/Antares.png)
+- Now available just at [Pling](https://www.pling.com/p/1831404/)
 - Wallpaper [Here](https://unsplash.com/photos/xFjAftU8lMY)
 
 #### [Graffias](/Graffias) theme
