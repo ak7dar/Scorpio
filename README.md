@@ -17,18 +17,19 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 #### [Antares](/Antares) theme
 
 ![](/Asset/Antares.png)
-- Now only available at [Link](https://www.pling.com/p/1831404/)
+- Now only available at Pling.com [Link](https://www.pling.com/p/1831404/)
 - Wallpaper [Here](https://unsplash.com/photos/xFjAftU8lMY)
 
 #### [Graffias](/Graffias) theme
 
 ![](/Asset/Graffias.png)
-- Now only available at [Link](https://www.pling.com/p/1831804/)
+- Now only available at Pling.com [Link](https://www.pling.com/p/1831804/)
 - Wallpaper [Here](https://unsplash.com/photos/JgOeRuGD_Y4)
 
 #### [Dschubba](/Dschubba) theme
 
-![](/Dschubba/preview.png)
+![](/Asset/dschubba.png)
+- Now only available at Pling.com [Link](https://www.pling.com/p/1833556/)
 - Wallpaper [Here](https://unsplash.com/photos/DgdJ_0us5SE)
 
 #### [Shaula](/Shaula) theme
@@ -49,7 +50,8 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 ### Featured
 #### [Auva](/Auva) theme
 
-![](/Auva/preview.png)
+![](/Asset/auva.png)
+- Now only available at Pling.com [Link](https://www.pling.com/p/1833586/)
 - i think this theme is better with white wallpaper
 #### [Enif](/Enif) theme
 
@@ -102,6 +104,8 @@ I thank the people who have supported me,which makes me more excited to make new
 one of them are the following people:
 
 - [G Nussbaum](https://github.com/gnussbaum67)
+- [Yittri](https://github.com/yittri)
+- [Linuxscoop](https://github.com/linuxscoop/)
 
 ## :cyclone: Last
 - these themes are inspired by
