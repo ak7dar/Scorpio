@@ -10,13 +10,14 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 ## :cyclone: Showcase :
 
 ### :rocket: New theme !!!! :rocket:
-#### [Sargas](/Sargas) theme
+#### Ascella theme
 
-![](/Sargas/preview.png)
+![](/Asset/ascella.png)
+- Only available at Pling.com [Link](https://www.pling.com/p/1847432/)
 ---------------------------------------------------
 #### [Antares](/Antares) theme
 
-![](/Asset/Antares.png)
+![](/Asset/antares.png)
 - Now only available at Pling.com [Link](https://www.pling.com/p/1831404/)
 - Wallpaper [Here](https://unsplash.com/photos/xFjAftU8lMY)
 
@@ -24,7 +25,9 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 
 ![](/Graffias/preview.png)
 - Wallpaper [Here](https://unsplash.com/photos/JgOeRuGD_Y4)
+#### [Sargas](/Sargas) theme
 
+![](/Sargas/preview.png)
 #### [Dschubba](/Dschubba) theme
 
 ![](/Asset/dschubba.png)
