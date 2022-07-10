@@ -1,30 +1,30 @@
 ![greetings](/Asset/Scorpio.png)
-<!-- BADGES -->
-<h1>
-  <a href="#--------">
-    <img alt="" align="right" src="https://badges.pufler.dev/visits/closebox73/Scorpio?style=round-square&label=&color=282C35&logo=github&logoColor=white&labelColor=C678DD"/>
-  </a>
-</h1>
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=closebox73&repo=Scorpio&countColor=%23C577DC)
+
 A Conky themes pack which I made in hopes of beautifying your desktop 
 
 ## :cyclone: Showcase :
 
 ### :rocket: New theme !!!! :rocket:
-#### Ascella theme
+#### Mirach theme
 
-![](/Asset/ascella.png)
-- Only available at Pling.com [Link](https://www.pling.com/p/1847432/)
+![](/Asset/mirach.png)
+- Only available at Pling.com [Link](https://www.pling.com/p/1851356/)
 ---------------------------------------------------
 #### [Antares](/Antares) theme
 
 ![](/Asset/antares.png)
 - Now only available at Pling.com [Link](https://www.pling.com/p/1831404/)
 - Wallpaper [Here](https://unsplash.com/photos/xFjAftU8lMY)
-
 #### [Graffias](/Graffias) theme
 
 ![](/Graffias/preview.png)
 - Wallpaper [Here](https://unsplash.com/photos/JgOeRuGD_Y4)
+#### Ascella theme
+
+![](/Asset/ascella.png)
+- Only available at Pling.com [Link](https://www.pling.com/p/1847432/)
 #### [Sargas](/Sargas) theme
 
 ![](/Sargas/preview.png)
