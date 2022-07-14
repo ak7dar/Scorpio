@@ -20,6 +20,7 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 #### [Graffias](/Graffias) theme
 
 ![](/Graffias/preview.png)
+- You can download this theme separately [Here](https://www.pling.com/p/1856062/)
 - Wallpaper [Here](https://unsplash.com/photos/JgOeRuGD_Y4)
 #### Ascella theme
 
