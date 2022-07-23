@@ -3,14 +3,14 @@
 ![](https://api.visitorbadge.io/api/VisitorHit?user=closebox73&repo=Scorpio&countColor=%23C577DC)
 
 A Conky themes pack which I made in hopes of beautifying your desktop 
-I invite anyone who wants to show Conky's creations here, just send it in the issue and I will display it at the bottom of the readme
 
 ## :cyclone: Showcase :
+I invite anyone who wants to show Conky's creations here, just send it in the issue and I will display it at the bottom of the readme
 
 ### :rocket: New theme !!!! :rocket:
-#### [Ayla](/Ayla) theme
+#### [Alya](/Alya) theme
 
-![](/Ayla/preview.png)
+![](/Alya/preview.png)
 ---------------------------------------------------
 #### [Antares](/Antares) theme
 
