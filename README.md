@@ -3,14 +3,14 @@
 ![](https://api.visitorbadge.io/api/VisitorHit?user=closebox73&repo=Scorpio&countColor=%23C577DC)
 
 A Conky themes pack which I made in hopes of beautifying your desktop 
+I invite anyone who wants to show Conky's creations here, just send it in the issue and I will display it at the bottom of the readme
 
 ## :cyclone: Showcase :
 
 ### :rocket: New theme !!!! :rocket:
-#### Mirach theme
+#### [Ayla](/Ayla) theme
 
-![](/Asset/mirach.png)
-- Only available at Pling.com [Link](https://www.pling.com/p/1851356/)
+![](/Ayla/preview.png)
 ---------------------------------------------------
 #### [Antares](/Antares) theme
 
@@ -22,10 +22,6 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 ![](/Graffias/preview.png)
 - You can download this theme separately [Here](https://www.pling.com/p/1856062/)
 - Wallpaper [Here](https://unsplash.com/photos/JgOeRuGD_Y4)
-#### Ascella theme
-
-![](/Asset/ascella.png)
-- Only available at Pling.com [Link](https://www.pling.com/p/1847432/)
 #### [Sargas](/Sargas) theme
 
 ![](/Sargas/preview.png)
@@ -57,6 +53,14 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 ![](/Asset/auva.png)
 - Now only available at Pling.com [Link](https://www.pling.com/p/1833586/)
 - i think this theme is better with white wallpaper
+#### Mirach theme
+
+![](/Asset/mirach.png)
+- Only available at Pling.com [Link](https://www.pling.com/p/1851356/)
+#### Ascella theme
+
+![](/Asset/ascella.png)
+- Only available at Pling.com [Link](https://www.pling.com/p/1847432/)
 #### [Enif](/Enif) theme
 
 ![](/Enif/preview.png)
@@ -111,11 +115,17 @@ one of them are the following people:
 - [G Nussbaum](https://github.com/gnussbaum67)
 - [Yittri](https://github.com/yittri)
 - [Linuxscoop](https://github.com/linuxscoop/)
+- [Ilham Adiputra](https://github.com/ilham25/)
 
 ## :cyclone: Last
-- these themes are inspired by
+#### these themes are inspired by
 	- KWGT widget for Android
 	- ZOOPER widget
-	- RAINMETER 
+	- RAINMETER
+	
+#### Credits
+	- Mini Clock Lua by easysid & Etles_Team
+	- Bargraph Lua by wlourf
+	- Rings meter Lua by londonali1010
 
 <p align="center"><a href="https://github.com/closebox73/Scorpio/blob/master/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=rounded-square&label=License&message=MIT-License&logoColor=white&logo=github&colorA=282C35&colorB=C678DD"/></a></p>
