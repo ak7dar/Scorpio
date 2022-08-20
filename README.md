@@ -8,9 +8,11 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 I invite anyone who wants to show Conky's creations here, just send it in the issue and I will display it at the bottom of the readme
 
 ### :rocket: New theme !!!! :rocket:
-#### [Alya](/Alya) theme
+#### [sadachbia](/Sadachbia) theme
 
-![](/Alya/preview.png)
+![](/Asser/sadachbia.png)
+- Now only available at Pling.com [Link](https://www.pling.com/p/1883754/)
+- Wallpaper [Here](https://unsplash.com/photos/UwzalTDCpT4)
 ---------------------------------------------------
 #### [Antares](/Antares) theme
 
@@ -64,6 +66,9 @@ I invite anyone who wants to show Conky's creations here, just send it in the is
 #### [Enif](/Enif) theme
 
 ![](/Enif/preview.png)
+#### [Alya](/Alya) theme
+
+![](/Alya/preview.png)
 ------------------------------------------------------------------------
 
 ## :cyclone: Tip Jar :
