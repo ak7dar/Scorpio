@@ -10,7 +10,7 @@ I invite anyone who wants to show Conky's creations here, just send it in the is
 ### :rocket: New theme !!!! :rocket:
 #### [sadachbia](/Sadachbia) theme
 
-![](/Asser/sadachbia.png)
+![](/Asset/sadachbia.png)
 - Now only available at Pling.com [Link](https://www.pling.com/p/1883754/)
 - Wallpaper [Here](https://unsplash.com/photos/UwzalTDCpT4)
 ---------------------------------------------------
@@ -18,12 +18,12 @@ I invite anyone who wants to show Conky's creations here, just send it in the is
 
 ![](/Asset/antares.png)
 - Now only available at Pling.com [Link](https://www.pling.com/p/1831404/)
-- Wallpaper [Here](https://unsplash.com/photos/xFjAftU8lMY)
+- Wallpaper [Here](https://unsplash.com/photos/aiLd4Y1Kwn0)
 #### [Graffias](/Graffias) theme
 
-![](/Graffias/preview.png)
+![](/Asset/graffias.png)
 - You can download this theme separately [Here](https://www.pling.com/p/1856062/)
-- Wallpaper [Here](https://unsplash.com/photos/JgOeRuGD_Y4)
+- Wallpaper [Here](https://unsplash.com/photos/me5GLy03kVs)
 #### [Sargas](/Sargas) theme
 
 ![](/Sargas/preview.png)
@@ -31,7 +31,7 @@ I invite anyone who wants to show Conky's creations here, just send it in the is
 
 ![](/Asset/dschubba.png)
 - Now only available at Pling.com [Link](https://www.pling.com/p/1833556/)
-- Wallpaper [Here](https://unsplash.com/photos/DgdJ_0us5SE)
+- Wallpaper [Here](https://unsplash.com/photos/dKJXkKCF2D8)
 
 #### [Shaula](/Shaula) theme
 
