@@ -51,10 +51,11 @@ I invite anyone who wants to show Conky's creations here, just send it in the is
 ------------------------------------------------------------------------
 ### Featured
 #### [Auva](/Auva) theme
-
-![](/Asset/auva.png)
+Dark Version
+![](/Asset/auva_dark.png)
+Light Version
+![](/Asset/auva_light.png)
 - Now only available at Pling.com [Link](https://www.pling.com/p/1833586/)
-- i think this theme is better with white wallpaper
 #### Mirach theme
 
 ![](/Asset/mirach.png)
